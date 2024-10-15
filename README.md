@@ -11,7 +11,7 @@ Sou cientista de dados, com foco em gerar insights valiosos por meio da análise
 
 Minhas credenciais incluem um Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida (UVA), além de certificações em Lean Six Sigma, Engenharia de Dados com Python (DIO), Ciência de Dados (Sigmoidal), Análise de Dados (Xperiun) e Power BI Data Analytics (DIO).
 
-**Background in:** Python, Machine Learning, Estatistica, Mecânica.
+**Experiência em:** Python, Machine Learning, Estatistica, Mecânica, Visualização de dados.
 
 **Links:**
 * [LinkedIn](www.linkedin.com/in/abner-macedo-60144a277)
