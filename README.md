@@ -7,7 +7,7 @@
 # Abner Macedo
 <sub>*Data Scientist* at Business Intelligence</sub>
 
-Sou cientista de dados, com foco em gerar insights valiosos por meio da análise de negócios. Tive a honra de fazer parte de uma equipe premiada com o Selo de Excelência da ABF. Minhas habilidades incluem análise de dados, pensamento crítico e analítico, além de programação e gerenciamento de bancos de dados. Sou um aprendiz ágil, comprometido em resolver desafios complexos e impulsionar decisões informadas.
+Como cientista de dados, transformo dados brutos em insights estratégicos que impulsionam decisões informadas. Tive a honra de integrar uma equipe premiada com o Selo de Excelência da ABF. Minhas habilidades incluem análise de dados, pensamento crítico e analítico, além de proficiência em Python, SQL, estatística, Power BI e machine learning. Estou sempre em busca de novas formas de extrair valor dos dados e apoiar a inovação.
 
 Minhas credenciais incluem um Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida (UVA), além de certificações em Lean Six Sigma, Engenharia de Dados com Python (DIO), Ciência de Dados (Sigmoidal), Análise de Dados (Xperiun) e Power BI Data Analytics (DIO).
 
