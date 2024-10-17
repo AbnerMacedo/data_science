@@ -19,7 +19,7 @@ Minhas credenciais incluem um Tecnólogo em Análise e Desenvolvimento de Sistem
 
 ## Projetos:
 
-* **Análise do Airbnb no Rio de Janeiro:** https://bit.ly/3Yrvh3f
+* **Análise dos Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3Yrvh3f
 
 
 ---
