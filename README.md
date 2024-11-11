@@ -20,6 +20,7 @@ Minhas credenciais incluem um Tecnólogo em Análise e Desenvolvimento de Sistem
 ## Projetos:
 
 * **Análise dos Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3Yrvh3f
+* **Estudo do Impacto da COVID-19: Análise de Dados e Visualizações:** https://bit.ly/3O4KaTh
 
 
 ---
